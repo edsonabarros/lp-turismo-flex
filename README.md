@@ -9,6 +9,6 @@
 <h3>Projeto</h3>
 <p>O foco principal do projeto era de praticar os conteúdos aprendidos sobre flexbox. A estrutura do HTML foi cedida pela instrutora</p>
 
-Certificado de conclusão do conteúdo: <a href="https://www.dio.me/certificate/24AB80DB/share">Certificado!</a>
-<br>
+<a href="https://www.dio.me/certificate/24AB80DB/share">Certificado de conclusão!</a>
+
 
